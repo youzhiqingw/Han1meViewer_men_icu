@@ -1,0 +1,22 @@
+{
+  "project_info": {
+    "project_number": "123456789",
+    "project_id": "han1meviewer-test",
+    "storage_bucket": "han1meviewer-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123456789:android:abcdef1234567890",
+        "android_client_info": {
+          "package_name": "com.yenaly.han1meviewer"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyDummyKeyForTesting12345"
+        }
+      ]
+    }
+  ]
+}
